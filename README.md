@@ -1,21 +1,11 @@
-# Init IS310 Homework
+# IS310 Coding Assignments
 
-## Proof of Installation
+## Rohan Varma Gottumukkala – Culture as Data
 
-1. Python
+This repository contains all my assignments for IS310.
 
-![Python Installation](images/python-installation.png)
+### Assignments
+- init_is310
+- command-line-maze
 
-2. Git
-
-![Git Installation](images/git-installation.png)
-
-3. VS Code
-
-![VS Code Installation](images/vscode-installation.png)
-
-4. AI Tool/Workflow
-
-I will be using chatgpt or claude only if i needed them to learn and not for doing my whole assignment.
-
-Hypothesis username: ROHANVARMAA
+- [ ] Course Website: https://cultureasdata-uiuc.github.io/is310-spring-2026/
